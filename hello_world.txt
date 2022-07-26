@@ -1,1 +1,2 @@
 Hi there,it's incredible. Maybe i'm editing correctly this text file directly into the terminal. Wow!
+Hi there, just a little editing to save back the file. I'm not even sure if i'm writing in correct English. 
